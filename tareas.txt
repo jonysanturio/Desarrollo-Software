@@ -1,4 +1,11 @@
+feature/estilos
 Tareas pendientes:
 1. Diseñar la interfaz
 2. Implementar login
 3. Conectar base de datos
+
+Tareas Pendientes:
+  1. Diseñar la interfaz
+  2. Implementar login
+  3. Conectar base de datos
+main
